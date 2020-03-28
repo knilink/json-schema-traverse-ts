@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "noUnusedParameters": false,
+    "noUnusedLocals": false,
+    "noImplicitAny": true,
+    "target": "es5",
+    "declaration": true,
+    "lib": ["dom", "es2017"]
+  },
+  "exclude": ["node_modules", "lib", "es"]
+}
